@@ -9,7 +9,8 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 200%;
+    padding-bottom: 50px;
 }
 
 .bold {

@@ -40,19 +40,14 @@ var articles = {
  'article-three' : {
      title: 'Articel-three | Aman Agarwal',
     heading: 'Article Three',
-    date:  'August 8,2017',
+    date:  'August 11,2017',
     content: `
         <p>
-            Hello everyone, this is my first Webapp.  Hello everyone, this is my first Webapp. Hello everyone, this is my first Webapp.
+            Hello everyone, this is my third article.
         </p>
-        <p>
-             Hello everyone, this is my first Webapp.  Hello everyone, this is my first Webapp.  Hello everyone, this is my first Webapp.
-        </p>
-         <p>
-              Hello everyone, this is my first Webapp.  Hello everyone, this is my first Webapp.  Hello everyone, this is my first Webapp.
-         </p>`
  },
-};
+ 
+ };
 
  function createTemplate(data){
     var title = data.title;

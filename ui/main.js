@@ -5,6 +5,6 @@ element.innerHTML = 'Hello Welcome to my Web Page';
 
 var img = document.getElementById('abc');
 img.onclick = function (){
-    img.style.marginleft = '100px';
+    img.style.marginLeft = '100px';
 };
 

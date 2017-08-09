@@ -6,7 +6,7 @@ element.innerHTML = 'Hello Welcome to my Web Page';
 var img = document.getElementById('abc');
 var marginLeft = 0;
 function moveRight(){
-    marginLeft = marginLeft + 10;
+    marginLeft = marginLeft + 5;
     img.style.marginLeft = marginLeft + 'px';
 }
 img.onclick = function(){

@@ -25,6 +25,7 @@ button.onclick = function() {
                 var span = document.getElementById("countt");
                 span.innerHTML = counter.toString();
             }
+           
         }
     };
        request.open('GET',  'http://aman2489agarwal76.imad.hasura-app.io/counter', true);
